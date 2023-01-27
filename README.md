@@ -13,7 +13,7 @@
 **->** **Integrate with any NoSQL databse**
 **->** **Beautiful landing page**
 **->** **Give some role for Database by adding Login and Signin modules**
-**React for component based UI**
+ and **React for component based UI**
 
 ## End to end...?
 end to end encryption is the current trend so that data can be leaked to other Apps.So hence we use **OpenAI API** for all operations
